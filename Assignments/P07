@@ -2,7 +2,7 @@ import numpy as np
 import random
 import pygame
 from rich import print
-#https://replit.com/@rugbyprof 
+
 
 class Point:
     """A point located at (x,y) in 2D space.
